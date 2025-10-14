@@ -32,12 +32,14 @@ voice_recognition_app/
 ```
 ---
 ## ⚙️ Setup Instructions
+(*type all of this in the VS Code terminal*)
 
 1️⃣ Download
 ```text
 git clone https://github.com/wqois/voice_recognition.git
 cd voice_recognition
 ```
+
 2️⃣ Install Dependencies
 ```text
 pip install -r requirements.txt
