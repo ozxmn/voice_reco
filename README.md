@@ -1,7 +1,6 @@
 # 🎙️ Voice Recognition App
 
 A simple, modular Python voice recognition system with a modern GUI built using **CustomTkinter**.  
-It is useful you to audio, train a model, and recognize speakers — all in one clean interface.
 
 ---
 
