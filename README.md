@@ -71,3 +71,14 @@ python main.py
 - librosa
 - scikit-learn
 ---
+
+## Gallery
+- Start
+![](https://ibb.co.com/Xf159W6t)
+- Example usage
+![](https://ibb.co.com/FqqqyfHq)
+![](https://ibb.co.com/PGLXg79P)
+- Training
+![](https://ibb.co.com/d3F73mY)
+- Voice recognition
+![](https://ibb.co.com/TBGCHrfz)
