@@ -74,11 +74,12 @@ python main.py
 
 ## Gallery
 - Start
-![](https://ibb.co.com/Xf159W6t)
-- Example usage
-![](https://ibb.co.com/FqqqyfHq)
-![](https://ibb.co.com/PGLXg79P)
+![](https://freeimage.host/i/KLT2zXa)
+- Recording
+![](https://freeimage.host/i/KLT2ILJ)
+![](https://freeimage.host/i/KLT2F0Q)
+![](https://freeimage.host/i/KLT23qx)
 - Training
-![](https://ibb.co.com/d3F73mY)
+![](https://freeimage.host/i/KLT2h22)
 - Voice recognition
-![](https://ibb.co.com/TBGCHrfz)
+![](https://freeimage.host/i/KLT2SBj)
