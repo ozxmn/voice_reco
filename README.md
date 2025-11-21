@@ -1,7 +1,7 @@
 # Voice recognition app
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/8BkAvnm5AowH29yQAW/giphy.gif?cid=9b38fe91xho69rvzamovidbg4rrrd5tc0xhb8fy0hwj5azlm&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="Demo" width="100%">
+  <img src="https://github.com/ozxmn/previews/blob/main/reco.gif" alt="Demo" width="100%">
 </p>
 Python voice recognition system using ML.  
 
